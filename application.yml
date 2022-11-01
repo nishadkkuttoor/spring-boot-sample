@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: cynnoxApps
+      password: P1ramId@#97
+      host: test-03.kollegenet.com
+      port: 7000
+      database: nishad
